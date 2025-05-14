@@ -1,0 +1,9 @@
+body {
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 0 auto;
+  width: 1300px;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
